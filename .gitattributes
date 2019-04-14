@@ -1,0 +1,16 @@
+. filter=lfs diff=lfs merge=lfs -text
+j2sdk-1_3_1_15-windows-i586.exe filter=lfs diff=lfs merge=lfs -text
+j2sdk-1_3_1-doc.zip filter=lfs diff=lfs merge=lfs -text
+jdk-1_5_0_06-linux-i586.bin filter=lfs diff=lfs merge=lfs -text
+jdk-6u38-windows-i586.exe filter=lfs diff=lfs merge=lfs -text
+j2sdk-1_4_1-doc.zip filter=lfs diff=lfs merge=lfs -text
+jdk-1_5_0_06-linux-i586-rpm.bin filter=lfs diff=lfs merge=lfs -text
+j2sdk-1_4_2_10-linux-i586.bin filter=lfs diff=lfs merge=lfs -text
+j2sdk-1_4_2_13-windows-i586-p.exe filter=lfs diff=lfs merge=lfs -text
+j2sdk-1_4_2-doc.zip filter=lfs diff=lfs merge=lfs -text
+jdk-1_1_8_010-windows-i586.exe filter=lfs diff=lfs merge=lfs -text
+jdk-1_5_0-doc.zip filter=lfs diff=lfs merge=lfs -text
+j2sdk-1_4_1_04-windows-i586.exe filter=lfs diff=lfs merge=lfs -text
+j2sdk-1_4_2_10-linux-i586-rpm.bin filter=lfs diff=lfs merge=lfs -text
+jdk-1_5_0_11-windows-i586-p.exe filter=lfs diff=lfs merge=lfs -text
+jdk-6u30-apidocs.zip filter=lfs diff=lfs merge=lfs -text
