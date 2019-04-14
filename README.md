@@ -1,6 +1,8 @@
 
-早期jdk备份。
+早期jdk备份 Stored with Git LFS 
+ 
 
+校验和[checksum](checksum.md) 
 
         echo '```' > checksum.md
         echo checksum >> checksum.md
@@ -13,7 +15,6 @@
         echo '```' >> checksum.md
 
 
-校验和[checksum](checksum.md)
  
 
 # reference
